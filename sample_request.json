@@ -1,0 +1,21 @@
+{
+    "gender": "Male",
+    "SeniorCitizen": 0,
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": 4,
+    "PhoneService": "Yes",
+    "MultipleLines": "No phone service",
+    "InternetService": "DSL",
+    "OnlineSecurity": "Yes",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "Yes",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "Two year",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Bank transfer (automatic)",
+    "MonthlyCharges": 35.85,
+    "TotalCharges": 1430.4
+}
