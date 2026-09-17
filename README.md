@@ -2,6 +2,9 @@
 
 End-to-end machine learning project to predict customer churn using a Decision Tree Classifier, served via a FastAPI REST API.
 
+Github repo - [ankush-ksharma/churnPrediction_ML_EDA](https://github.com/ankush-ksharma/churnPrediction_ML_EDA)
+
+
 ## Project Structure
 
 ```
